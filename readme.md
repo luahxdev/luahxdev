@@ -45,8 +45,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luahxdev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=bb9af7&text_color=cdd6f4" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luahxdev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=luahxdev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=bb9af7&text_color=cdd6f4" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=luahxdev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages"/>
 
 <br/>
 
