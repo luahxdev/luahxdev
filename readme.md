@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,50:45475A,100:CBA6F7&height=220&section=header&text=Luah&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Cat%20lover%20%E2%80%A2%20Night%20owl&descSize=20&descAlignY=60" width="100%"/>
 
 <a href="https://github.com/luahxdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+a+Luah+%F0%9F%91%8B;Transformo+café+em+código+%E2%98%95;Codando+sempre+com+um+gato+por+perto+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Luah+%F0%9F%91%8B;Turning+coffee+into+code+%E2%98%95;Always+coding+with+a+cat+nearby+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,12 +16,12 @@
 
 ---
 
-## 🌙 Sobre mim
+## 🌙 About Me
 
-- 💻 Apaixonada por programação e por criar coisas novas
-- 🌱 Sempre aprendendo algo novo
-- 🐈‍⬛ Debugging com a ajuda de gatos
-- 🌌 Prefiro o modo escuro em tudo
+- 💻 Passionate about programming and building new things
+- 🌱 Always learning something new
+- 🐈‍⬛ Debugging with the help of cats
+- 🌌 Dark mode for everything
 
 ---
 
@@ -29,19 +29,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,mysql&theme=dark" alt="Linguagens e tecnologias"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,mysql&theme=dark" alt="Languages and technologies"/>
 
 <br/><br/>
 
-**Ferramentas**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📈 Gráfico de contribuições
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -66,11 +66,11 @@
 
 ---
 
-## 🐱 Cantinho do gato
+## 🐱 Cat Corner
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Gato"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cat"/>
 
 *Keep calm and let the cat debug.*
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-### 🌙 Obrigada por visitar!
+### 🌙 Thanks for visiting!
 
 🐈‍⬛ `Meow.exe has stopped working... just kidding!`
 
