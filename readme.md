@@ -45,12 +45,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=luahxdev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=bb9af7&text_color=cdd6f4" alt="GitHub Stats"/>
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=luahxdev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=luahxdev&hide_border=true&background=1e1e2e&ring=cba6f7&fire=bb9af7&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=9399b2" alt="Streak Stats"/>
+
+</div>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=luahxdev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=bb9af7&text_color=cdd6f4" alt="GitHub Stats"/>
 
 </div>
 
